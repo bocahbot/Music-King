@@ -1,11 +1,11 @@
-# Music-King
-<h1 align="centre"> ⚡️Music King⚡️ </h1>
+# Senuk-Musik
+<h1 align="centre"> ⚡️Senuk Music⚡️ </h1>
 
 ### Bot yang dapat memutar musik pada panggilan suara grup telegram
 
-# Repo Music Yang Di Buat Oleh @PacarFerdilla
+# Repo Music Yang Di Buat Oleh @bocahbot17 dan @PacarFerdilla
 
-![!Logo Music King](https://telegra.ph/file/c9126d171410b8836f3aa.jpg)
+![!Logo senuk_musik](https://telegra.ph/file/107919487_454555.jpg)
 
 <h2> Fitur : </h2>
 
