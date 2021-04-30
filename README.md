@@ -5,7 +5,7 @@
 
 # Repo Music Yang Di Buat Oleh @bocahbot17 dan @PacarFerdilla
 
-![!Logo senuk_musik](https://telegra.ph/file/107919487_454555.jpg)
+![!Logo senuk_musik](https://camo.githubusercontent.com/9ee63439acb7a23f57034e7e1c3bdf4382db7403d218e49cac9149069bcb383a/68747470733a2f2f74656c656772612e70682f66696c652f3130373931393438375f3435343535352e6a7067.jpg)
 
 <h2> Fitur : </h2>
 
